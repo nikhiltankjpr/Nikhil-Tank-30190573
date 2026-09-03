@@ -1,0 +1,265 @@
+Below is a professional, enterprise-grade prompt that you can use with any AI tool to generate a fully formatted, downloadable DOCX Test Execution Report. The prompt explicitly defines document structure, formatting standards, tables, visual elements, and executive-level presentation quality.
+
+Professional Prompt: Generate Test Execution Report DOCX
+Role
+
+Act as a Senior QA Test Manager and Professional Technical Documentation Specialist with expertise in software testing reports, quality assurance reporting, and executive-level documentation.
+
+Objective
+
+Create a fully formatted Microsoft Word (.DOCX) Test Execution Report based on the provided test execution data.
+
+The document must be professional, client-ready, audit-ready, and suitable for project stakeholders, QA managers, developers, business analysts, and release managers.
+
+Generate the report as a downloadable DOCX file with proper formatting, styling, tables, headings, page structure, executive summary, and analysis sections.
+
+Document Formatting Requirements
+Page Setup
+Paper Size: A4
+Orientation: Portrait
+Margins: Standard (1 inch on all sides)
+Header:
+Company Name (if not provided, use "QA Testing Services")
+Test Execution Report
+Footer:
+Page Number
+Generated Date
+Font Standards
+Main Headings: Calibri 16 Bold Dark Blue
+Section Headings: Calibri 14 Bold
+Body Text: Calibri 11
+Tables: Calibri 10
+Table Headers:
+White Font
+Dark Blue Background
+Styling
+Professional corporate theme
+Consistent spacing
+Proper alignment
+Automatic table formatting
+Clear visual hierarchy
+Executive-level appearance
+Cover Page
+
+Create a professional cover page containing:
+
+TEST EXECUTION REPORT
+
+Project Name: E-Commerce Application
+
+Application: Online Shopping Website
+
+Test Cycle: Regression Testing
+
+Environment: QA
+
+Execution Date: 02-Sep-2026
+
+Prepared By: AI Testing Agent
+
+Overall Status: PARTIALLY PASSED
+
+Include a professional quality assurance themed cover design.
+
+Start the main report from the next page.
+
+Table of Contents
+
+Generate an automatic table of contents including:
+
+Report Overview
+Execution Summary
+Test Execution Results
+Failure Analysis
+Defect Summary
+Quality Assessment
+Recommendations
+Final Sign-Off
+Section 1: Report Overview
+
+Create a project overview table.
+
+Field	ValueProject	E-Commerce Application
+Application	Online Shopping Website
+Test Cycle	Regression Testing
+Environment	QA
+Execution Date	02-Sep-2026
+Tester	AI Testing Agent
+Overall Status	PARTIALLY PASSED
+
+Add a brief narrative explaining the purpose of the execution cycle.
+
+Section 2: Execution Summary
+
+Create a professionally formatted metrics table.
+
+Metric	CountTotal Test Cases	20
+Executed	20
+Passed	16
+Failed	3
+Blocked	1
+Skipped	0
+Pass Percentage	80%
+Management Summary
+
+Generate an executive summary explaining:
+
+Scope of testing
+Overall quality status
+Completion percentage
+Key observations
+Release readiness status
+Section 3: Test Execution Results
+
+Create a detailed test execution table.
+
+Test Case ID	Test Case	Status	RemarksTC-001	Valid Login	PASS	User logged in successfully
+TC-002	Invalid Login	PASS	Error message displayed
+TC-003	Empty Username	PASS	Validation message displayed
+TC-004	Empty Password	PASS	Validation message displayed
+TC-005	Search Product	PASS	Product displayed
+TC-006	Add Product to Cart	PASS	Product added successfully
+TC-007	Remove Product from Cart	PASS	Product removed
+TC-008	Update Cart Quantity	FAIL	Quantity not updated correctly
+TC-009	Checkout	PASS	Checkout page opened
+TC-010	Place Order	FAIL	Order submission failed
+
+Apply color coding:
+
+PASS = Green
+
+FAIL = Red
+
+BLOCKED = Orange
+
+SKIPPED = Gray
+
+Section 4: Failure Analysis
+
+Create a dedicated failure analysis section.
+
+Test Case	Failure Type	Severity	AI AnalysisTC-008	Application Defect	Medium	Cart quantity is not updated correctly
+TC-010	Application Defect	High	Order submission fails after clicking Place Order
+TC-015	Automation Issue	Low	Locator was not found
+Additional Analysis
+
+Generate professional QA observations including:
+
+Root cause assumptions
+Risk assessment
+Impact on business workflows
+Areas requiring immediate attention
+Section 5: Defect Summary
+
+Create a defect summary table.
+
+Severity	CountCritical	0
+High	1
+Medium	1
+Low	1
+Total	3
+
+Include:
+
+Defect Distribution Analysis
+
+Provide a written analysis discussing:
+
+Defect breakdown by severity
+Potential business impact
+Quality trend assessment
+Section 6: Quality Assessment
+
+Generate a quality assessment section containing:
+
+Quality Indicators
+
+✅ Functional Coverage
+
+✅ Regression Coverage
+
+⚠ High Severity Open Defect
+
+✅ Stable Login Functionality
+
+⚠ Order Processing Issue
+
+Risk Assessment Matrix
+
+Create a risk matrix table.
+
+Area	Risk Level	StatusLogin Module	Low	Stable
+Search Module	Low	Stable
+Cart Module	Medium	Requires Fix
+Checkout Module	Medium	Requires Validation
+Order Module	High	Critical Attention
+Section 7: Recommendations
+
+Generate professional QA recommendations.
+
+Example categories:
+
+Immediate Actions
+Fix order submission defect.
+Investigate cart quantity update issue.
+Resolve automation locator failures.
+Validation Activities
+Retest failed scenarios.
+Execute regression after fixes.
+Perform smoke testing before deployment.
+Release Considerations
+
+Assess deployment readiness.
+
+Section 8: Final Assessment
+
+Create a highlighted conclusion box containing:
+
+Overall Result: PARTIALLY PASSED
+
+Recommendation: ⚠ Release Not Recommended
+
+Reason: One high-severity defect impacts order placement functionality.
+
+Generate a professional concluding summary explaining why the release is currently not recommended.
+
+Visual Requirements
+
+Include:
+
+Professional report theme
+Status indicators
+Executive summary callout box
+Pass/Fail charts
+Pie chart showing:
+Passed
+Failed
+Blocked
+Defect severity chart
+
+Charts must be high quality and presentation-ready.
+
+Sign-Off Section
+
+Create final approval section.
+
+Role	Name	Signature	DateQA Engineer	AI Testing Agent	__________	02-Sep-2026
+QA Lead	__________	__________	__________
+Project Manager	__________	__________	__________
+Output Requirements
+
+Generate a downloadable Microsoft Word (.DOCX) file.
+
+Ensure:
+
+Fully formatted document
+Professional corporate styling
+Automatic table formatting
+Clickable Table of Contents
+Page numbering
+Charts and visual summaries
+Executive-ready presentation quality
+No placeholder lorem ipsum text
+Content fully populated with provided data
+
+The final document should look like a real-world QA Test Execution Report used in enterprise software delivery and UAT sign-off processes.

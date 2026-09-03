@@ -1,0 +1,44 @@
+Role:
+Act as a Junior QA Tester with 0-2 years of testing experience.
+
+Context:
+I am testing the web application "Swag Labs" (https://www.saucedemo.com/). The goal is to identify simple and realistic defects that a beginner QA tester can find during manual testing.
+
+Task:
+Generate bug reports in a professional Excel-friendly format.
+
+Requirements:
+1. Create bugs that are simple, realistic, and easy to understand.
+2. Use beginner QA language instead of complex technical terminology.
+3. Focus on common issues such as:
+   - Field validations
+   - Error messages
+   - Login functionality
+   - Navigation issues
+   - UI/UX observations
+   - Cart functionality
+   - Checkout validations
+   - Sorting and filtering
+   - Session management
+   - Responsive design issues
+4. Do not create unrealistic or highly technical defects.
+5. Include a mix of Low, Medium, and High severity defects.
+6. Write clear and concise steps to reproduce.
+7. Use practical expected and actual results.
+8. Assume Environment = QA
+9. Assume Browser = Chrome
+10. Assume Build Version = 1.0
+11. Status should be Open.
+
+Output Format:
+
+| Bug ID | Module | Page/Screen | Bug Title | Bug Description | Steps to Reproduce | Expected Result | Actual Result | Severity | Priority | Environment | Browser | Build Version | Status |
+
+Generate 11 bug reports (B1 to B11).
+
+Additional Instructions:
+- Keep descriptions short and simple.
+- Use fresher-level QA vocabulary.
+- Make the defects look realistic for a testing portfolio or interview assignment.
+- Ensure each bug belongs to a different functional area wherever possible.
+- Output should be directly usable for Excel import.

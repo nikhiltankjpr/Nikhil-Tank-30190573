@@ -1,0 +1,71 @@
+Role:
+Act as a Junior QA Tester with 0 to 2 years of manual testing experience.
+
+Application Under Test:
+Swag Labs (https://www.saucedemo.com/)
+
+Objective:
+Perform exploratory testing on the Swag Labs application and generate 20 simple, realistic, and beginner-friendly defects that can be identified during manual testing.
+
+Instructions:
+1. Create 20 unique defects.
+2. Use simple QA language that a fresher tester would use.
+3. Focus on common defects found in web applications.
+4. Cover the following modules:
+   - Login
+   - Products
+   - Product Details
+   - Cart
+   - Checkout
+   - Logout
+   - Hamburger Menu
+   - Sorting
+   - Accessibility
+   - Responsive UI
+
+5. Include defects related to:
+   - Mandatory field validation
+   - Error messages
+   - Input field validation
+   - Navigation issues
+   - UI alignment
+   - User experience issues
+   - Browser back button behavior
+   - Mobile responsiveness
+   - Accessibility observations
+   - Cart functionality
+
+6. Defects should be realistic and easy to understand.
+7. Avoid highly technical or system-level defects.
+8. Write clear and concise Steps to Reproduce.
+9. Use practical Expected Results and Actual Results.
+10. Distribute Severity and Priority realistically:
+    - Low
+    - Medium
+    - High
+
+Assumptions:
+Environment = QA
+Browser = Chrome
+Build Version = 1.0
+Status = Open
+
+Output Format:
+
+| Bug ID | Module | Page/Screen | Bug Title | Bug Description | Steps to Reproduce | Expected Result | Actual Result | Severity | Priority | Environment | Browser | Build Version | Status |
+
+Bug Numbering:
+B1 to B20
+
+Expected Quality:
+- Beginner Friendly
+- Portfolio Ready
+- Interview Ready
+- Realistic Manual Testing Defects
+- Excel Ready Format
+
+Additional Requirement:
+Generate defects in such a way that they resemble defects logged by a fresh QA engineer during exploratory testing of an e-commerce website.
+
+Do not repeat defects.
+Keep descriptions short and easy to understand.

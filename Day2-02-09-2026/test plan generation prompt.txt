@@ -1,0 +1,320 @@
+Role:
+Act as a Senior QA Test Manager, ISTQB-certified Test Lead, Business Analyst, and Quality Engineering Consultant with 15+ years of experience in E-Commerce, Retail, Web Applications, Agile, and SDLC processes.
+
+Context:
+The application under test is Demo Web Shop:
+https://demowebshop.tricentis.com
+
+The application contains the following modules:
+
+1. User Registration
+2. Login / Logout
+3. Password Recovery
+4. User Profile Management
+5. Product Catalog
+6. Product Search
+7. Product Filtering and Sorting
+8. Product Comparison
+9. Product Reviews
+10. Shopping Cart
+11. Wishlist
+12. Checkout Process
+13. Shipping and Billing Address
+14. Payment Processing
+15. Order Confirmation
+16. Order History
+17. Newsletter Subscription
+18. Contact Us
+19. Category Navigation
+20. Responsive Web Experience
+
+Task:
+Generate a complete industry-standard Test Plan Document in Microsoft Word (DOCX) format.
+
+The Test Plan should be detailed enough for a real project implementation and should contain a minimum of 25 pages.
+
+Create realistic project metadata and populate all sections completely instead of using placeholders.
+
+Target Audience:
+• QA Managers
+• QA Leads
+• Test Engineers
+• Product Owners
+• Business Analysts
+• Development Teams
+• Project Managers
+• Stakeholders
+
+Document Requirements:
+
+Populate the following sections in detail:
+
+1. Document Information
+   - Project Name
+   - Application Name
+   - Version
+   - Status
+   - Authors
+   - Reviewers
+   - Approvers
+
+2. Document Revision History
+
+3. Project Overview
+   - Project Description
+   - Business Objective
+   - Business Value
+   - Application Overview
+
+4. Testing Objectives
+
+5. Scope of Testing
+   - In Scope
+   - Out of Scope
+   - Assumptions
+   - Dependencies
+
+6. Test Items
+
+7. Modules Covered
+
+8. Test Deliverables
+
+9. Testing Types
+
+Functional Testing:
+- Smoke
+- Sanity
+- Integration
+- System
+- Regression
+- End-to-End
+- UAT
+
+Non-Functional Testing:
+- Performance
+- Load
+- Stress
+- Security
+- Accessibility
+- Reliability
+- Compatibility
+- Usability
+
+Other Testing:
+- API
+- UI
+- Database
+- Cross-Browser
+- Mobile Responsive
+- Exploratory
+- Negative
+
+10. Test Strategy
+
+Include:
+- Risk-Based Testing
+- Requirement-Based Testing
+- Defect-Based Testing
+- Regression Approach
+
+11. Manual Testing Approach
+
+12. Automation Testing Approach
+
+Include:
+- Selenium
+- Playwright
+- Azure DevOps
+- CI/CD Integration
+
+13. API Testing Approach
+
+Include:
+- Postman
+- REST APIs
+- Response Validation
+- Authentication Testing
+
+14. Database Testing Approach
+
+Include:
+- Data Validation
+- CRUD Verification
+- Data Integrity Checks
+
+15. Test Environment
+
+Create detailed environment tables:
+
+- QA
+- UAT
+- Staging
+
+Include:
+- URL
+- Browser Matrix
+- OS Matrix
+- Device Matrix
+
+16. Browser Compatibility Matrix
+
+Include:
+- Chrome
+- Edge
+- Firefox
+- Safari
+
+17. Mobile Device Coverage
+
+Include:
+- Android
+- iPhone
+- Tablet
+
+18. Test Data Requirements
+
+Create realistic test data tables for:
+
+- Registration
+- Login
+- Products
+- Cart
+- Checkout
+- Orders
+- Profile Management
+
+Include:
+- Positive Data
+- Negative Data
+- Boundary Data
+
+19. Test Case Management
+
+Include:
+- Naming Convention
+- Review Process
+- Traceability Process
+
+20. Requirements Traceability Matrix
+
+Generate sample RTM entries for:
+
+- Login
+- Registration
+- Product Search
+- Cart
+- Wishlist
+- Checkout
+
+Map requirements to test cases.
+
+21. Entry Criteria
+
+22. Exit Criteria
+
+23. Suspension Criteria
+
+24. Resumption Criteria
+
+25. Defect Management Process
+
+Include:
+- Defect Lifecycle
+- Severity Matrix
+- Priority Matrix
+- SLA Matrix
+
+26. Defect Report Template
+
+Provide detailed defect report fields.
+
+27. Defect Severity Definitions
+
+28. Defect Priority Definitions
+
+29. Test Metrics
+
+Include:
+- Test Case Execution Metrics
+- Pass %
+- Fail %
+- Defect Density
+- Defect Leakage
+- Requirement Coverage
+
+30. Risk Assessment
+
+Create a Risk Register Table:
+
+Columns:
+- Risk ID
+- Risk Description
+- Probability
+- Impact
+- Severity
+- Mitigation
+
+31. Resource Planning
+
+Include:
+- Test Manager
+- QA Lead
+- Manual Testers
+- Automation Engineers
+- Developers
+- BA
+
+32. Roles and Responsibilities
+
+Create a detailed RACI-style table.
+
+33. Test Schedule and Milestones
+
+Create realistic sprint-based timelines:
+
+- Planning
+- Test Design
+- Test Data Preparation
+- Execution
+- Regression
+- Closure
+
+34. Communication Plan
+
+Include:
+- Daily Standup
+- Defect Review
+- Test Status Reporting
+- Release Readiness Meetings
+
+35. Test Closure Activities
+
+36. Test Summary Report Template
+
+37. Sign-Off Criteria
+
+38. Approval Section
+
+39. Appendix
+
+40. Glossary
+
+Formatting Requirements:
+
+- Generate professional DOCX formatting.
+- Add cover page.
+- Add table of contents.
+- Use numbered headings.
+- Use professional QA documentation styling.
+- Include colored section headings.
+- Include multiple tables.
+- Include page numbers.
+- Ensure document length exceeds 25 pages.
+- Make content realistic and project-ready.
+- Avoid placeholders.
+- Use realistic metadata throughout the document.
+
+Expected Output:
+A fully populated enterprise-grade Test Plan DOCX document for Demo Web Shop that can be directly used in a real-world QA project.
+``

@@ -1,0 +1,481 @@
+Act as a Senior QA Analyst with 15+ years of experience in E-Commerce Application Testing, Test Management, Quality Engineering, Risk-Based Testing, and Test Governance.
+
+Create a professional, enterprise-grade Test Strategy Document for the website:
+
+Website Name: Demo Web Shop
+URL: https://demowebshop.tricentis.com
+
+The document must be written as a formal QA Test Strategy Report suitable for project stakeholders, QA Leads, Test Managers, Project Managers, Business Analysts, Developers, Product Owners, and Auditors.
+
+The report should be highly detailed (15-25 pages equivalent) and follow industry standards including ISTQB, Agile Testing Principles, Risk-Based Testing, Shift-Left Testing, and Quality Engineering best practices.
+
+Use professional document structure, headings, subheadings, tables, risk matrices, testing coverage matrices, and detailed explanations.
+
+=====================================================
+1. DOCUMENT INFORMATION
+=====================================================
+
+Include:
+
+• Document Title
+• Project Name
+• Application Name
+• Version
+• Author
+• Reviewers
+• Approval Authorities
+• Document Revision History
+• Purpose of the Document
+
+=====================================================
+2. EXECUTIVE SUMMARY
+=====================================================
+
+Provide a comprehensive overview of:
+
+• Application under test
+• Business goals
+• Project objectives
+• Quality objectives
+• Testing vision
+• Success criteria
+
+=====================================================
+3. APPLICATION OVERVIEW
+=====================================================
+
+Describe the Demo Web Shop application including:
+
+• E-commerce platform overview
+• Customer journeys
+• User types
+• Major modules
+• Business functionality
+
+Cover:
+
+• Registration
+• Login
+• Logout
+• Product Catalog
+• Product Search
+• Product Comparison
+• Shopping Cart
+• Wishlist
+• Checkout
+• Payment
+• Order Confirmation
+• Order History
+• Customer Profile
+• Newsletter
+• Contact Us
+• Reviews and Ratings
+
+=====================================================
+4. TEST OBJECTIVES
+=====================================================
+
+Define detailed testing objectives.
+
+Explain:
+
+• Why testing is needed
+• Business goals supported by testing
+• Quality goals
+• Risk reduction goals
+• Customer satisfaction goals
+• Revenue protection goals
+• Product stability goals
+
+Explain alignment with:
+
+• Business objectives
+• SDLC goals
+• Release quality goals
+
+=====================================================
+5. SCOPE OF TESTING
+=====================================================
+
+Create two sections:
+
+A. In Scope
+
+Include:
+
+• Functional Testing
+• Integration Testing
+• System Testing
+• Regression Testing
+• Smoke Testing
+• Sanity Testing
+• User Acceptance Support
+• Security Testing
+• Compatibility Testing
+• Accessibility Testing
+• Performance Testing
+
+B. Out of Scope
+
+Clearly define non-covered areas.
+
+=====================================================
+6. OVERALL TESTING APPROACH
+=====================================================
+
+Provide a detailed testing methodology.
+
+Explain:
+
+• Shift Left Testing
+• Agile QA Strategy
+• Risk-Based Testing
+• Requirement-Based Testing
+• Exploratory Testing
+• Automation First Approach
+• Continuous Testing
+
+Include:
+
+Requirement Analysis →
+Test Planning →
+Test Design →
+Test Data Preparation →
+Test Execution →
+Defect Management →
+Regression Testing →
+Test Closure
+
+=====================================================
+7. TESTING TYPES
+=====================================================
+
+Provide detailed coverage for:
+
+1. Functional Testing
+2. Smoke Testing
+3. Sanity Testing
+4. Integration Testing
+5. End-to-End Testing
+6. System Testing
+7. Regression Testing
+8. UI Testing
+9. Compatibility Testing
+10. Cross Browser Testing
+11. Mobile Responsive Testing
+12. Performance Testing
+13. Load Testing
+14. Stress Testing
+15. Volume Testing
+16. Security Testing
+17. Session Testing
+18. Cookie Testing
+19. Accessibility Testing
+20. Database Testing
+21. API Testing
+22. User Acceptance Testing
+
+For each type include:
+
+• Objective
+• Scope
+• Test Scenarios
+• Expected Outcome
+
+=====================================================
+8. MODULE-WISE TEST STRATEGY
+=====================================================
+
+Create detailed testing strategy for:
+
+Registration Module
+
+Login Module
+
+Homepage
+
+Product Catalog
+
+Search Functionality
+
+Shopping Cart
+
+Wishlist
+
+Checkout
+
+Payment Flow
+
+Order Placement
+
+Order History
+
+Customer Account
+
+Newsletter
+
+Contact Us
+
+Product Reviews
+
+For each module include:
+
+• Test Objectives
+• Positive Scenarios
+• Negative Scenarios
+• Boundary Testing
+• Validation Checks
+• Security Checks
+• Automation Scope
+
+=====================================================
+9. TEST DATA STRATEGY
+=====================================================
+
+Explain:
+
+• Test Data Planning
+• Test Data Creation
+• Data Masking
+• Production Data Restrictions
+• Positive Test Data
+• Negative Test Data
+• Boundary Test Data
+
+Create sample data sets.
+
+=====================================================
+10. TOOLS & TEST ENVIRONMENT
+=====================================================
+
+Provide detailed environment setup.
+
+Include:
+
+Test Management:
+• Azure DevOps
+• Jira
+
+Automation:
+• Selenium
+• TestNG
+• PyTest
+
+API:
+• Postman
+
+Performance:
+• JMeter
+
+Security:
+• OWASP ZAP
+
+Version Control:
+• Git
+
+CI/CD:
+• Jenkins
+• Azure DevOps Pipelines
+
+Browsers:
+• Chrome
+• Edge
+• Firefox
+
+Environment:
+• QA
+• UAT
+• Staging
+
+=====================================================
+11. TEST AUTOMATION STRATEGY
+=====================================================
+
+Explain:
+
+• Automation objectives
+• Automation scope
+• Automation framework architecture
+• Page Object Model
+• Data Driven Framework
+• Reusable Components
+• CI/CD Integration
+• Reporting Strategy
+
+Include automation candidate matrix.
+
+=====================================================
+12. DEFECT MANAGEMENT PROCESS
+=====================================================
+
+Provide detailed defect lifecycle.
+
+Include:
+
+New →
+Assigned →
+In Progress →
+Fixed →
+Retest →
+Verified →
+Closed
+
+Include:
+
+• Severity Matrix
+• Priority Matrix
+• Escalation Process
+• RCA Process
+
+=====================================================
+13. ROLES & RESPONSIBILITIES
+=====================================================
+
+Create RACI Matrix.
+
+Cover:
+
+• QA Lead
+• QA Analyst
+• Automation Engineer
+• Developer
+• Business Analyst
+• Product Owner
+• Project Manager
+
+Explain ownership and accountability.
+
+=====================================================
+14. RISK MANAGEMENT
+=====================================================
+
+Create detailed risk register.
+
+Include:
+
+Risk ID
+Risk Description
+Probability
+Impact
+Severity
+Mitigation Plan
+Owner
+
+Cover risks including:
+
+• Payment Failure
+• Authentication Failure
+• Environment Issues
+• Data Issues
+• Security Issues
+• Performance Degradation
+• Third Party Dependency Failures
+
+=====================================================
+15. METRICS & KPIs
+=====================================================
+
+Define:
+
+• Test Coverage
+• Defect Density
+• Defect Leakage
+• Test Execution Progress
+• Pass Percentage
+• Automation Coverage
+• Defect Rejection Rate
+• Defect Reopen Rate
+
+Include formulas.
+
+=====================================================
+16. ENTRY CRITERIA
+=====================================================
+
+Specify criteria for:
+
+• Test Planning
+• Test Design
+• Test Execution
+• Regression Testing
+• UAT
+
+=====================================================
+17. EXIT CRITERIA
+=====================================================
+
+Specify:
+
+• Test Completion Conditions
+• Quality Gates
+• Defect Closure Requirements
+• Stakeholder Approval Requirements
+
+=====================================================
+18. TEST DELIVERABLES
+=====================================================
+
+List:
+
+• Test Strategy
+• Test Plan
+• Test Scenarios
+• Test Cases
+• RTM
+• Test Data
+• Defect Reports
+• Automation Scripts
+• Execution Reports
+• Test Summary Report
+
+=====================================================
+19. REPORTING & GOVERNANCE
+=====================================================
+
+Explain:
+
+• Daily Status Reports
+• Weekly Reports
+• Defect Review Meetings
+• Release Readiness Meetings
+• Go/No-Go Meetings
+
+=====================================================
+20. TEST CLOSURE
+=====================================================
+
+Explain:
+
+• Closure Activities
+• Lessons Learned
+• Quality Assessment
+• Metrics Review
+• Sign-Off Process
+
+=====================================================
+21. APPENDICES
+=====================================================
+
+Include:
+
+• Testing Assumptions
+• Testing Constraints
+• Glossary
+• Acronyms
+• References
+
+Document Style Requirements:
+
+• Professional enterprise format
+• Executive-level language
+• Detailed explanations
+• Structured headings
+• Tables wherever applicable
+• Risk Matrix
+• RACI Matrix
+• KPI Tables
+• Coverage Matrix
+• QA Best Practices
+• ISTQB aligned terminology
+
+Generate the final result as a comprehensive Test Strategy Report ready for DOCX conversion.

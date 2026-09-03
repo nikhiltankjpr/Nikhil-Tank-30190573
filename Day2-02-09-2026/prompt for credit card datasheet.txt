@@ -1,0 +1,144 @@
+Role:
+Act as a Senior QA Test Analyst, Test Documentation Specialist, and Excel Test Artifact Designer with expertise in payment gateway testing, fintech platforms, and enterprise test management documentation.
+
+Context:
+We are creating a professional Excel-based test case document for Paymentwall Credit Card payment method testing. The output must resemble a formal QA Test Case Template used in enterprise projects.
+
+Task:
+Generate a downloadable Excel workbook containing Credit Card payment testing scenarios for Paymentwall.
+
+Formatting Requirements:
+
+Worksheet Name:
+Paymentwall Credit Card TC
+
+Title Section:
+- Display "TEST CASE TEMPLATE" centered at the top of the worksheet.
+- Use a large bold font.
+- Merge cells across the page width.
+- Center align the title.
+
+Header Information Section:
+
+Create two metadata blocks exactly as below:
+
+Left Block:
+Project Name
+Priority
+Description
+Test Objective
+
+Right Block:
+Test Case Author
+Test Case Reviewer
+Test Case Version
+Test Execution Date
+
+Formatting:
+- Label cells must have yellow background.
+- Label text must be bold.
+- Value cells must be bordered.
+- Add thin black borders around all metadata cells.
+- Keep the layout visually similar to a standard Excel QA Test Case Template.
+
+Populate metadata with:
+
+Project Name: Paymentwall Credit Card Integration
+Priority: High
+Description: Credit Card Payment Processing Testing
+Test Objective: Validate End-to-End Payment Lifecycle
+
+Test Case Author: Nikhil Tank
+Test Case Reviewer: QA Lead
+Test Case Version: 1.0
+Test Execution Date: TBD
+
+Test Case Table:
+
+Create a table below the metadata section.
+
+Column Headers:
+| Test Case ID | Test Steps | Input Data | Expected Results | Actual Results | Test Environment | Execution Status | Bug Severity | Bug Priority | Notes |
+
+Header Formatting:
+- Dark Blue background
+- White bold font
+- Center aligned
+- Thin black borders
+
+Rows:
+Generate 60 test cases.
+
+Test Case IDs:
+CC_001 through CC_060
+
+Test Case Naming Rules:
+- Every test case must start with the word "Verify".
+- Use meaningful fintech/payment processing scenarios.
+
+Coverage Areas:
+1. Visa Payments
+2. MasterCard Payments
+3. American Express Payments
+4. Credit Card Transactions
+5. Debit Card Transactions
+6. Card Validation
+7. CVV Validation
+8. Expiry Validation
+9. Authorization
+10. Capture
+11. Instant Confirmation
+12. Minimum Amount Validation (0.30 EUR)
+13. Boundary Value Validation
+14. Supported Currency Validation
+15. Unsupported Currency Validation
+16. Refund Processing
+17. Partial Refund Processing
+18. Recurring Payments
+19. Subscription Renewal
+20. Chargebacks
+21. Merchant Model
+22. MOR Model
+23. Mobile SDK Android
+24. Mobile SDK iOS
+25. Country Restrictions
+26. Transaction Declines
+27. Payment Gateway Errors
+28. Duplicate Payment Prevention
+29. Session Timeout Handling
+30. Integration Validation
+31. User Experience Validation
+
+Populate Every Row With:
+- Test Case ID
+- Detailed Test Step
+- Input Data
+- Expected Result
+- Actual Result = "Matches Expected Result"
+- Test Environment = "UAT"
+- Execution Status = "Not Executed"
+- Appropriate Bug Severity
+- Appropriate Bug Priority
+- Automation notes
+
+Example:
+Test Case ID: CC_001
+Test Step: Verify successful Visa credit card payment
+Input Data: Visa Test Card, Amount 10 EUR
+Expected Result: Payment should be successfully authorized and captured with instant confirmation.
+Actual Result: Matches Expected Result
+Environment: UAT
+Execution Status: Not Executed
+Bug Severity: N/A
+Bug Priority: N/A
+Notes: Suitable for Selenium/Playwright automation
+
+Excel Layout Requirements:
+- Apply borders to all cells.
+- Auto-size all columns.
+- Keep professional QA documentation appearance.
+- Ensure table is Excel-ready for direct execution tracking.
+- Make the workbook suitable for enterprise QA teams and automation engineers.
+
+Output:
+Generate a downloadable .xlsx file.
