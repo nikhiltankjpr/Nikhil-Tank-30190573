@@ -1,0 +1,17 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.1"
+  },
+  "dependencies": {
+    "csv-parse": "^7.0.2",
+    "csv-parser": "^3.2.1"
+  }
+}

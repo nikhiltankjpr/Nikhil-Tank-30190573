@@ -1,0 +1,2 @@
+✅ Transfer Successful | Amount: $25
+✅ Transaction Validation Successful | Amount: $25
