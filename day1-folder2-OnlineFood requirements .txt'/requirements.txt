@@ -1,7 +1,0 @@
-langchain
-langchain-core
-langchain-community
-langchain-huggingface
-huggingface_hub
-langsmith
-python-dotenv
